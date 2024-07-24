@@ -1,0 +1,44 @@
+h1 {
+	font-size: 17px;
+	text-align: left;
+}
+h2 {
+	text-align: center;
+	font-size: 45px;
+	font-family: Lucida Handwriting, sans-serif;
+}
+img {
+	border: 2px solid black;
+	background-color: transparent;
+}
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-color: #34C924;
+	padding: 0 20px 20px 20px;
+	border: 3px solid black;
+	margin: bleu;
+}
+html {
+	background-image: url('images/images/uc4.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+p {
+	font-size: 18px;
+	font-family: Verdana, sans-serif;
+}
+h3 {
+	font-family: Lucida Handwriting, sans-serif;
+	text-align: center;
+	font-size: 40px
+}
+h4 {
+	font-family: Verdana, sans-serif;
+	text-align: center;
+	font-size: 60px;
+}	
+h5 {
+	text-align: center;
+	font-size: 25px;
+}
